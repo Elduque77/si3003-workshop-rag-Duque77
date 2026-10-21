@@ -1,8 +1,8 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** …
+- **Nombre:** Juan Fernando Duque Gallego
 - **Código estudiantil:** …
-- **Usuario de GitHub:** …
+- **Usuario de GitHub:** Duque77
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
